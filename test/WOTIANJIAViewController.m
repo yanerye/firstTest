@@ -1,18 +1,18 @@
 //
-//  AddViewController.m
+//  WOTIANJIAViewController.m
 //  test
 //
 //  Created by 脉络 on 2019/6/18.
 //  Copyright © 2019 脉络. All rights reserved.
 //
 
-#import "AddViewController.h"
+#import "WOTIANJIAViewController.h"
 
-@interface AddViewController ()
+@interface WOTIANJIAViewController ()
 
 @end
 
-@implementation AddViewController
+@implementation WOTIANJIAViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

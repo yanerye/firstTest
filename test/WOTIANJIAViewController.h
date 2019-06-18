@@ -1,5 +1,5 @@
 //
-//  AddViewController.h
+//  WOTIANJIAViewController.h
 //  test
 //
 //  Created by 脉络 on 2019/6/18.
@@ -10,7 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface AddViewController : UIViewController
+@interface WOTIANJIAViewController : UIViewController
 
 @end
 
